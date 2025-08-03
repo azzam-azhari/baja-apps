@@ -4,7 +4,7 @@ import Welcome from './components/welcome';
 function App() {
   return (
     <>
-      <div className="app-container">
+      <div>
         <Welcome />
       </div>
     </>
