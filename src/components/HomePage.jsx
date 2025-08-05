@@ -42,7 +42,7 @@ function HomePage() {
         ))}
       </div>
       {/* Additional Content */}
-      <div className="p-4 mt-6 bg-white shadow-md rounded-xl"></div>
+      <div className="mt-6 bg-white shadow-md p-70 rounded-xl"></div>
       {/* Footer */}
       <div className="p-4 mt-6 text-sm text-center text-orange-800 bg-orange-300 rounded-xl">
         <p>© 2024 Aplikasi BAJA. All rights reserved.</p>
