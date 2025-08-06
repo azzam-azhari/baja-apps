@@ -32,6 +32,7 @@ function HomePage() {
             { label: 'Taling (e)', aksara: 'ꦺ' },
             { label: 'Suku (u)', aksara: 'ꦸ' },
             { label: 'Taling (e)', aksara: 'ꦺ' },
+            { label: 'Taling (e)', aksara: 'ꦺ' },
           ].map((item, index) => (
             <div key={index} className="flex items-center justify-between p-4 text-orange-800 bg-orange-200 shadow-sm rounded-xl">
               <div className="flex items-center space-x-4">
