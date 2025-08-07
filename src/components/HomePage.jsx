@@ -3,7 +3,7 @@ import { FaChevronRight } from 'react-icons/fa';
 
 function HomePage() {
   return (
-    <div className="w-full min-h-screen p-4 bg-orange-100">
+    <div className="w-full min-h-screen p-4 bg-orange-100 pt-26">
       <div className="max-w-screen-lg mx-auto">
         {/* Header */}
         <div className="flex items-center justify-between p-4 bg-orange-300 rounded-xl">
