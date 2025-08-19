@@ -31,6 +31,7 @@ function HomePage() {
             { label: 'Wulu (i)', aksara: 'ꦶ' },
             { label: 'Taling (e)', aksara: 'ꦺ' },
             { label: 'Suku (u)', aksara: 'ꦸ' },
+            { label: 'Suku (u)', aksara: 'ꦸ' },
             { label: 'Taling (e)', aksara: 'ꦺ' },
             { label: 'Taling (e)', aksara: 'ꦺ' },
             { label: 'Taling (e)', aksara: 'ꦺ' },
